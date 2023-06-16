@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MSUUFL3a1sLr+bYhwZ+qXHOmXPC/O7DScgrk479GUP4=",
+  "Source": "JsonBasedLocalization.Api",
+  "BasePath": "_content/JsonBasedLocalization.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
